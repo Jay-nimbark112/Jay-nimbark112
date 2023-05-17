@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jay Nimabrk</h1>
 <h3 align="center">Addicted to the coding</h3>
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F511651207655150878%2F&psig=AOvVaw0xwVmnfCbizmt8MClgWAKD&ust=1684380410132000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCODtsZC0-_4CFQAAAAAdAAAAABAF">
+<img align="right" alt="coding" width="400" src="https://envri.eu/wp-content/uploads/2016/08/software-developer-copy.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-nimbark112&label=Profile%20views&color=0e75b6&style=flat" alt="jay-nimbark112" /> </p>
 
